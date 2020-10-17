@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Iniciando a aplicação")
+	fmt.Println("🚀 Starting application...")
 
 	application := app.Generate()
 
